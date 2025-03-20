@@ -1,0 +1,121 @@
+.head1{
+    block-size: 50px;
+    width: 450px;
+    margin-left: 440px;
+    margin-top: 40px;
+    border-bottom: 2px dashed #996515;
+    background-color:  #705a43;
+}
+.mid1{
+    width: 200px;
+    block-size: 600px;
+    margin-left: 440px;
+    border-bottom: 3px dashed #996515;
+    background-color: #882331;
+    font-family: sans-serif;
+}
+.mid2{
+    width: 298px;
+    block-size: 600px;
+    margin-left: 590px;
+    margin-top: -704px;
+    border-left:2px dashed #996515;
+    border-bottom: 3px dashed #996515;
+    background-color: #a13447;
+    font-family: sans-serif;
+}
+.bottom{
+    block-size: 30px;
+    width: 450px;
+    margin-left: 440px;
+    
+}
+
+#star{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: 30px;
+}
+#fork{
+    margin-top: 10px;
+    margin-left: 70px;
+    font-size: 30px;
+    font-weight: 30px;
+    color: #cf6474;
+
+}
+
+#glass{
+    margin-top: 10px;
+    margin-left: 80px;
+    font-size: 30px;
+    font-weight: 30px
+}
+#search{
+    margin-top: -32px;
+    margin-left: 370px;
+    font-size: 30px;
+    font-weight: 30px
+
+}
+.btn1{
+    margin-top: 40px;
+    margin-left: 200px;
+    border-radius: 5px;
+    border:  1px dashed   #996515;;
+    background-color: #584733;
+    color: white;
+    position: fixed;
+    font-family: sans-serif;
+
+}
+.bottom{
+    background-color:#fadcb6;
+}
+
+.sidebar {
+    color: white;
+}
+
+.sidebar-item {
+    padding: 8px 8px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    font-size: 14px;
+}
+
+.main-content {
+    color: white;
+}
+
+.menu-item {
+    padding: 16px 14px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    font-size:16px;
+}
+
+.menu1{
+    padding: 14 px 15px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+
+}
+
+.fc{
+    opacity: 0.1;
+    padding: 14px 15px;
+    border-bottom: 5px solid rgba(255,255,255,0.1);
+    font-size:16px;
+}
+img{
+    width: 100px;
+    margin-left: 640px;
+    position: relative;
+    top: -85px;
+}
+
+.table{
+    position: absolute;
+    margin-left: 681px;
+    margin-top: -140px;
+    color: #924c4c;
+}
